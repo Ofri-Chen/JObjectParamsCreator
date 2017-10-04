@@ -1,0 +1,8 @@
+c:\users\ofric\documents\visual studio 2017\Projects\JObjectParamsCreator\JObjectParamsCreator\bin\Debug\JObjectParamsCreator.exe.config
+c:\users\ofric\documents\visual studio 2017\Projects\JObjectParamsCreator\JObjectParamsCreator\bin\Debug\JObjectParamsCreator.exe
+c:\users\ofric\documents\visual studio 2017\Projects\JObjectParamsCreator\JObjectParamsCreator\bin\Debug\JObjectParamsCreator.pdb
+c:\users\ofric\documents\visual studio 2017\Projects\JObjectParamsCreator\JObjectParamsCreator\bin\Debug\Newtonsoft.Json.dll
+c:\users\ofric\documents\visual studio 2017\Projects\JObjectParamsCreator\JObjectParamsCreator\bin\Debug\Newtonsoft.Json.xml
+c:\users\ofric\documents\visual studio 2017\Projects\JObjectParamsCreator\JObjectParamsCreator\obj\Debug\JObjectParamsCreator.csprojResolveAssemblyReference.cache
+c:\users\ofric\documents\visual studio 2017\Projects\JObjectParamsCreator\JObjectParamsCreator\obj\Debug\JObjectParamsCreator.exe
+c:\users\ofric\documents\visual studio 2017\Projects\JObjectParamsCreator\JObjectParamsCreator\obj\Debug\JObjectParamsCreator.pdb
